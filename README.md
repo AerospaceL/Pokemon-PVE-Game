@@ -48,16 +48,19 @@
   银|拥有3-5个15级宠物
   铜|拥有1-2个15级宠物
   
-  
+---
 ### 效果图
-+ 登录界面
-![image](https://github.com/galaxy-TvT/Pokemon-PVE-Game/blob/main/Screenshot/login.png)
++ 登录界面   
 
-+ 战斗胜利界面
-![image](https://github.com/galaxy-TvT/Pokemon-PVE-Game/blob/main/Screenshot/fight.png)
+    ![image](https://github.com/galaxy-TvT/Pokemon-PVE-Game/blob/main/Screenshot/login.png)
 
-+ 战斗失败界面
-![image](https://github.com/galaxy-TvT/Pokemon-PVE-Game/blob/main/Screenshot/fail.png)
++ 战斗胜利界面  
+ 
+    ![image](https://github.com/galaxy-TvT/Pokemon-PVE-Game/blob/main/Screenshot/fight.png)
+ 
++ 战斗失败界面  
+ 
+    ![image](https://github.com/galaxy-TvT/Pokemon-PVE-Game/blob/main/Screenshot/fail.png)
   
   
   
