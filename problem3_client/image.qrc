@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>C:/Users/91917/OneDrive/桌面/pictures/bulbasaur.png</file>
+        <file>C:/Users/91917/OneDrive/桌面/pictures/charmander.png</file>
+        <file>C:/Users/91917/OneDrive/桌面/pictures/pikachu.jpg</file>
+        <file>C:/Users/91917/OneDrive/桌面/pictures/squirtle.png</file>
+        <file>C:/Users/91917/OneDrive/桌面/pictures/login.jpg</file>
+        <file>C:/Users/91917/OneDrive/桌面/pictures/start.jpg</file>
+        <file>C:/Users/91917/OneDrive/桌面/pictures/b15m.png</file>
+        <file>C:/Users/91917/OneDrive/桌面/pictures/bronzeModal.jpg</file>
+        <file>C:/Users/91917/OneDrive/桌面/pictures/g15m.png</file>
+        <file>C:/Users/91917/OneDrive/桌面/pictures/goldModal.jpg</file>
+        <file>C:/Users/91917/OneDrive/桌面/pictures/s15m.png</file>
+        <file>C:/Users/91917/OneDrive/桌面/pictures/silverMedal.jpg</file>
+        <file>../../../pictures/b15m.png</file>
+        <file>../../../pictures/back1.jpg</file>
+        <file>../../../pictures/bronzeModal.jpg</file>
+        <file>../../../pictures/bulbasaur.png</file>
+        <file>../../../pictures/charmander.png</file>
+        <file>../../../pictures/g15m.png</file>
+        <file>../../../pictures/goldModal.jpg</file>
+        <file>../../../pictures/login.jpg</file>
+        <file>../../../pictures/modal.jpg</file>
+        <file>../../../pictures/pikachu.jpg</file>
+        <file>../../../pictures/s15m.png</file>
+        <file>../../../pictures/silverMedal.jpg</file>
+        <file>../../../pictures/squirtle.png</file>
+        <file>../../../pictures/start.jpg</file>
+    </qresource>
+</RCC>
