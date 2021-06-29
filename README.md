@@ -50,7 +50,12 @@
   
   
 ### 效果图
-  ![image]()
++ 登录界面
+  ![image](https://github.com/galaxy-TvT/Pokemon-PVE-Game/blob/main/Screenshot/login.png)
++ 战斗胜利界面
+  ![image](https://github.com/galaxy-TvT/Pokemon-PVE-Game/blob/main/Screenshot/login.png)
++ 战斗失败界面
+  ![image](https://github.com/galaxy-TvT/Pokemon-PVE-Game/blob/main/Screenshot/login.png)
   
   
   
