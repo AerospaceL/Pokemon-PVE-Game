@@ -52,15 +52,15 @@
 ### 效果图
 + 登录界面   
 
-    ![image](https://github.com/galaxy-TvT/Pokemon-PVE-Game/blob/main/Screenshot/login.png)
+    ![image](https://github.com/AerospaceL/Pokemon-PVE-Game/blob/main/Screenshot/login.png)
 
 + 战斗胜利界面  
  
-    ![image](https://github.com/galaxy-TvT/Pokemon-PVE-Game/blob/main/Screenshot/fight.png)
+    ![image](https://github.com/AerospaceL/Pokemon-PVE-Game/blob/main/Screenshot/fight.png)
  
 + 战斗失败界面  
  
-    ![image](https://github.com/galaxy-TvT/Pokemon-PVE-Game/blob/main/Screenshot/fail.png)
+    ![image](https://github.com/AerospaceL/Pokemon-PVE-Game/blob/main/Screenshot/fail.png)
   
   
   
